@@ -19,11 +19,11 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 | Spyglass into Binoculars - self explanatory | <a href="https://www.curseforge.com/minecraft/mc-mods/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/mc-mods/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/versions/Versions_488250_all.svg?badge_style=flat" alt="CF"></a> |
 ###### values on downloads may vary with curse forge
 #### My Curse Forge link: <a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
-╔═══<br>
-║ ⠀ ⠀ ╔═╗<br>
-║ ⠀ ⠀ ║⠀╚╗<br>
-║⠀═╗ ║⠀⠀║<br>
-╚══╝ ║⠀╔╝<br>
-⠀ ⠀⠀⠀ ╚═╝<br>
+╔═════<br>
+║ ⠀ ⠀ ⠀⠀ ╔═══╗<br>
+║ ⠀⠀ ⠀ ⠀ ║⠀ ⠀⠀╚╗<br>
+║ ⠀  ⠀ ═╗ ║⠀⠀ ⠀⠀║<br>
+╚════╝ ║⠀ ⠀⠀╔╝<br>
+⠀ ⠀⠀⠀ ⠀⠀╚═══╝<br>
 
 
