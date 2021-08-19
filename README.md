@@ -20,11 +20,10 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 ###### values on downloads may vary with curse forge
 #### My Curse Forge link: <a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
 ╔═══<br>
-║<br>
-║<br>
-║⠀═╗ ╔═╗<br>
-╚══╝ ║⠀╚╗<br>
-⠀ ⠀⠀⠀ ║⠀⠀║<br>
-⠀ ⠀⠀⠀ ║⠀╔╝<br>
+║ ⠀ ⠀ ╔═╗<br>
+║ ⠀ ⠀ ║⠀╚╗<br>
+║⠀═╗ ║⠀⠀║<br>
+╚══╝ ║⠀╔╝<br>
 ⠀ ⠀⠀⠀ ╚═╝<br>
+
 
