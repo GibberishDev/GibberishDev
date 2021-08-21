@@ -27,3 +27,7 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 ⠀ ⠀⠀⠀ ⠀⠀╚═══╝<br>
 
 
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=dark"/>
+</details>
