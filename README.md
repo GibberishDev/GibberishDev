@@ -10,6 +10,7 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 | ----------- | ----------- |
 | GDCore - Library mod for my other mods post 1.17 version | <a href="https://www.curseforge.com/minecraft/mc-mods/gdcore"><img src="http://cf.way2muchnoise.eu/510911.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/mc-mods/gdcore"><img src="http://cf.way2muchnoise.eu/versions/Versions_510911_all.svg?badge_style=flat" alt="CF"></a> |
 | GDMAHM - Small support mod for my [*Create*](https://github.com/Creators-of-Create/Create) centered [*Mod Pack*](https://www.curseforge.com/minecraft/modpacks/medieval-autoheaven) | <a href="https://www.curseforge.com/minecraft/mc-mods/medieval-autoheaven-helper-mod"><img src="http://cf.way2muchnoise.eu/507003.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/mc-mods/medieval-autoheaven-helper-mod"><img src="http://cf.way2muchnoise.eu/versions/Versions_507003_all.svg?badge_style=flat" alt="CF"></a> |
+
 ### My Minecraft Resource packs:
 | Name | Stats |
 | ----------- | ----------- |
@@ -19,6 +20,16 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 | Spyglass into Binoculars - self explanatory | <a href="https://www.curseforge.com/minecraft/mc-mods/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/mc-mods/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/versions/Versions_488250_all.svg?badge_style=flat" alt="CF"></a> |
 ###### values on downloads may vary with curse forge
 #### My Curse Forge link: <a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
+</details>
+<details>
+    <summary>Github Activity</summary>
+    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=dark"/>
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibberishDev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Spotify](https://novatorem-44et1xs1t.vercel.app/api/spotify)](https://open.spotify.com/user/GibberishDev)
+
 ╔═════<br>
 ║ ⠀ ⠀ ⠀⠀ ╔═══╗<br>
 ║ ⠀⠀ ⠀ ⠀ ║⠀ ⠀⠀╚╗<br>
@@ -27,7 +38,3 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 ⠀ ⠀⠀⠀ ⠀⠀╚═══╝<br>
 
 
-<details>
-    <summary>:zap: Github Stats</summary>
-    <img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=dark"/>
-</details>
