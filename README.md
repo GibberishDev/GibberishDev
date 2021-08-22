@@ -22,7 +22,7 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 
 ### Github Activity:
 
-<a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="CF"></a>
+<a href="https://github.com/GibberishDev"><img src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="CF"></a>
 
 [![lnangs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibberishDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
