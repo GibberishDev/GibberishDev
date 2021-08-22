@@ -26,12 +26,15 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 
 [![lnangs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibberishDev&layout=compact&theme=vision-friendly-dark)](https://github.com/GibberishDev)
 
-### Spotify Activity:
+  -----
+  <br>
+  <a href="https://github.com/GibberishDev"><img src="https://github.com/GibberishDev/resrrep/blob/main/gd.png" alt="GD"></a>
+  
+  <br>
+  
+  <a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
+  <a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="Steam"></a>
+  <a href="https://discord.gg/bhAnEEXUfV"><img src="https://github.com/GibberishDev/resrrep/blob/main/discord.png" alt="Discord"></a>
+
+### GibberishDev last listened music on spotify:
 [![Spotify](https://novatorem-six-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Gibberish)
-<br>
-
-<img src="https://github.com/GibberishDev/resrrep/blob/main/gd.png" alt="gd logo">
-
-<a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
-<a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="Steam"></a>
-<a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/discord.png" alt="Steam"></a>
