@@ -20,24 +20,19 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 | Spyglass into Binoculars - self explanatory | <a href="https://www.curseforge.com/minecraft/mc-mods/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/mc-mods/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/versions/Versions_488250_all.svg?badge_style=flat" alt="CF"></a> |
 ###### values on downloads may vary with curse forge
 #### My Curse Forge link: <a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
-<br>
-<img align="left" alt="DaRealTurtyWurty's GitHub Stats" src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=gruvbox"/>
 
-<br>
-<br>
+### Github Activity:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibberishDev&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="CF"></a>
 
-<br>
+[![lnangs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibberishDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Spotify Activity:
 [![Spotify](https://novatorem-six-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Gibberish)
 <br>
 
-╔═════<br>
-║ ⠀ ⠀ ⠀⠀ ╔═══╗<br>
-║ ⠀⠀ ⠀ ⠀ ║⠀ ⠀⠀╚╗<br>
-║ ⠀  ⠀ ═╗ ║⠀⠀ ⠀⠀║<br>
-╚════╝ ║⠀ ⠀⠀╔╝<br>
-⠀ ⠀⠀⠀ ⠀⠀╚═══╝<br>
+<img src="https://github.com/GibberishDev/resrrep/blob/main/gd.png" alt="gd logo">
 
-
+<a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
+<a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="Steam"></a>
+<a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="Steam"></a>
