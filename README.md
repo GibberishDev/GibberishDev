@@ -36,6 +36,7 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
   <a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="Steam"></a>
   <a href="https://discord.gg/bhAnEEXUfV"><img src="https://github.com/GibberishDev/resrrep/blob/main/discord.png" alt="Discord"></a>
   <a href="https://gibberish-development.itch.io/"><img src="https://github.com/GibberishDev/resrrep/blob/main/itchio.png" alt="Itch.io"></a>
+  <a href="https://www.patreon.com/GibberishDevelopment"><img src="https://github.com/GibberishDev/resrrep/blob/main/patreon.png" alt="Patreon"></a>
 
 ### GibberishDev last listened music on spotify:
 [![Spotify](https://novatorem-six-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Gibberish)
