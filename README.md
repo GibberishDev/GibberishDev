@@ -2,7 +2,7 @@
 
 I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs/plugins/resource packs/(well ya understood)*
 
-### My games:
+### My games and apps:
 - There is none released. Yet.
 
 ### My Minecraft mods:
