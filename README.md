@@ -42,4 +42,4 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 <a href="https://gibberish-development.itch.io/ascii-like-wall-tile-set"><img src="https://github.com/GibberishDev/resrrep/blob/main/ilap.jpg" alt="itch.io link"></a>
 
 ### GibberishDev last listened music on spotify:
-[![Spotify](https://novatorem-six-lemon.vercel.app/api/spotify)](https://open.spotify.com/user/Gibberish)
+[![Spotify](https://Gibberish.vercel.app/api/spotify)]
