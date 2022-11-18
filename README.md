@@ -1,9 +1,15 @@
 # Welcome to my *GitHub Page*.
 
 I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs/plugins/resource packs/(well ya understood)*
+<br><br>
+<hr>
+<b><h3>I WAS DRAFTED SO THIS GITHUB PROFILE WILL NOT GET ANY UPDATES TILL AROUND JANUARY 2024</h3></b>
+<hr>
 
 ### My games and apps:
-- There is none released. Yet.
+| Name | Stats |
+| ----------- | ----------- |
+| Unfortunatelly Only Closed Projects atm | |
 
 ### My Minecraft mods:
 | Name | Stats |
@@ -13,8 +19,6 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 ### My Minecraft Resource packs:
 | Name | Stats |
 | ----------- | ----------- |
-| Ghast Bop Cat - well name is self explanatory - turns ghasts into bopping cats | <a href="https://www.curseforge.com/minecraft/texture-packs/ghast-bop-cat"><img src="http://cf.way2muchnoise.eu/434986.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/ghast-bop-cat"><img src="http://cf.way2muchnoise.eu/versions/Versions_434986_all.svg?badge_style=flat" alt="CF"></a> |
-| Custom Model Data Tutorial Pack - example on how to make CMD item models | <a href="https://www.curseforge.com/minecraft/texture-packs/custommodeldata-tutoriall"><img src="http://cf.way2muchnoise.eu/500060.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/custommodeldata-tutoriall"><img src="http://cf.way2muchnoise.eu/versions/Versions_500060_all.svg?badge_style=flat" alt="CF"></a> |
 | Trumpet Skeleton - replaces bows with trumpets - *Doot!* | <a href="https://www.curseforge.com/minecraft/texture-packs/trumpet-skeleton"><img src="http://cf.way2muchnoise.eu/493049.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/trumpet-skeleton"><img src="http://cf.way2muchnoise.eu/versions/Versions_493049_all.svg?badge_style=flat" alt="CF"></a> |
 | Spyglass into Binoculars - self explanatory | <a href="https://www.curseforge.com/minecraft/texture-packs/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/versions/Versions_488250_all.svg?badge_style=flat" alt="CF"></a> |
 
