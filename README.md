@@ -36,11 +36,9 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
   
   <br>
   
-  <a href="https://www.curseforge.com/members/gibberishdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
+  <a href="https://www.curseforge.com/members/gibbdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
   <a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="Steam"></a>
-  <a href="https://discord.gg/bhAnEEXUfV"><img src="https://github.com/GibberishDev/resrrep/blob/main/discord.png" alt="Discord"></a>
   <a href="https://gibberish-development.itch.io/"><img src="https://github.com/GibberishDev/resrrep/blob/main/itchio.png" alt="Itch.io"></a>
-  <a href="https://www.patreon.com/GibberishDevelopment"><img src="https://github.com/GibberishDev/resrrep/blob/main/patreon.png" alt="Patreon"></a>
 
 #### My "text" logo made with this:
 <a href="https://gibberish-development.itch.io/ascii-like-wall-tile-set"><img src="https://github.com/GibberishDev/resrrep/blob/main/ilap.jpg" alt="itch.io link"></a>
