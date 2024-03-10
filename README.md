@@ -2,9 +2,6 @@
 
 I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs/plugins/resource packs/(well ya understood)*
 <br><br>
-<hr>
-<b><h3>I WAS DRAFTED SO THIS GITHUB PROFILE WILL NOT GET ANY UPDATES TILL AROUND JANUARY 2024</h3></b>
-<hr>
 
 ### My games and apps:
 | Name | Stats |
