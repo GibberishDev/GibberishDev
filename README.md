@@ -1,6 +1,6 @@
 # Welcome to my *GitHub Page*.
 
-I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs/plugins/resource packs/(well ya understood)*
+I am a someone for sure >.> Web Frontend and Minecraft, Team Fortress 2.
 <br><br>
 
 ### My games and apps:
@@ -16,8 +16,8 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 ### My Minecraft Resource packs:
 | Name | Stats |
 | ----------- | ----------- |
-| Trumpet Skeleton - replaces bows with trumpets - *Doot!* | <a href="https://www.curseforge.com/minecraft/texture-packs/trumpet-skeleton"><img src="http://cf.way2muchnoise.eu/493049.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/trumpet-skeleton"><img src="http://cf.way2muchnoise.eu/versions/Versions_493049_all.svg?badge_style=flat" alt="CF"></a> |
-| Spyglass into Binoculars - self explanatory | <a href="https://www.curseforge.com/minecraft/texture-packs/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> <a href="https://www.curseforge.com/minecraft/texture-packs/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/versions/Versions_488250_all.svg?badge_style=flat" alt="CF"></a> |
+| Trumpet Skeleton - replaces bows with trumpets - *Doot!* | <a href="https://www.curseforge.com/minecraft/texture-packs/trumpet-skeleton"><img src="http://cf.way2muchnoise.eu/493049.svg?badge_style=flat" alt="CF"></a> |
+| Spyglass into Binoculars - self explanatory              | <a href="https://www.curseforge.com/minecraft/texture-packs/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> |
 
 ### Github Activity:
 
@@ -39,6 +39,3 @@ I am an indie dev of some random games and minecraft *mods/addon/behavoiur packs
 
 #### My "text" logo made with this:
 <a href="https://gibberish-development.itch.io/ascii-like-wall-tile-set"><img src="https://github.com/GibberishDev/resrrep/blob/main/ilap.jpg" alt="itch.io link"></a>
-
-### GibberishDev last listened music on spotify:
-Left my country ;_;
