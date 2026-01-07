@@ -22,7 +22,6 @@ I am a someone for sure >.> Web Frontend and Minecraft, Team Fortress 2.
 ### Github Activity:
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Wakatime](./profile/wakatime.svg)
 
 
 
