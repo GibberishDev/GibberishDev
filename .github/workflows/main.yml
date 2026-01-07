@@ -33,14 +33,6 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: wakatime
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&theme=vision-friendly-dark
-          path: profile/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
