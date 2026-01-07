@@ -21,7 +21,7 @@ I am a someone for sure >.> Web Frontend and Minecraft, Team Fortress 2.
 
 ### Github Activity:
 
-<a href="https://github.com/GibberishDev"><img src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="CF"></a>
+<a href="https://github.com/GibberishDev"><img src="https://github-readme-stats-hwa9vez0v.vercel.app/api?username=GibberishDev&show_icons=true&hide_border=true&theme=vision-friendly-dark&include_all_commits=true" alt="CF"></a>
 [![lnangs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibberishDev&layout=compact&theme=vision-friendly-dark)](https://github.com/GibberishDev?tab=repositories)
 
 
