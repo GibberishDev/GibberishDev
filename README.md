@@ -8,7 +8,7 @@ I am a someone for sure >.> Web Frontend and Minecraft, Team Fortress 2.
 | ----------- | ----------- |
 | Unfortunatelly Only Closed Projects atm | |
 
-### My Minecraft mods:
+### My Hytale mods:
 | Name | Stats |
 | ----------- | ----------- |
 | Unfortunatelly Only Closed Projects atm | |
