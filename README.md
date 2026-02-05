@@ -11,7 +11,7 @@ I am a someone for sure >.> Web Frontend and Minecraft, Team Fortress 2.
 ### My Hytale mods:
 | Name | Stats |
 | ----------- | ----------- |
-| Unfortunatelly Only Closed Projects atm | |
+| Gibb's missing furniture | <a href="https://curseforge.com/hytale/mods/gibbs-missing-furniture"><img src="[http://cf.way2muchnoise.eu/493049.svg?badge_style=flat](http://cf.way2muchnoise.eu/1455041.svg?badge_style=flat)" alt="CF"></a> |
 
 ### My Minecraft Resource packs:
 | Name | Stats |
