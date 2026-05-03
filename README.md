@@ -3,10 +3,15 @@
 I am a someone for sure >.> Web Frontend and Minecraft, Team Fortress 2.
 <br><br>
 
-### My games and apps:
-| Name | Short description | Repo |
-| ----------- | ----------- | ----------- |
-| Yarnboard | Infinite conspiracy corkbaord | https://github.com/GibberishDev/yarnboard |
+My favourite games:
+* [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
+* [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
+* Minecraft (I disagree with update direction ever since covid but I won't deny its awesome game. Modding is keeping it afloat)
+* [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/)
+
+My current addictions:
+* [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
+* [Deadlock](https://store.steampowered.com/app/1422450/Deadlock/)
 
 ### My Hytale mods:
 | Name | Stats |
