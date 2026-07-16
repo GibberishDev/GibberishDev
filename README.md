@@ -18,11 +18,12 @@ My current addictions:
 | ----------- | ----------- |
 | Gibb's missing furniture | <a href="https://curseforge.com/hytale/mods/gibbs-missing-furniture"><img src="http://cf.way2muchnoise.eu/1455041.svg?badge_style=flat" alt="CF"></a> |
 
-### My Minecraft Resource packs:
+### My Minecraft stuff:
 | Name | Stats |
 | ----------- | ----------- |
 | Trumpet Skeleton - replaces bows with trumpets - *Doot!* | <a href="https://www.curseforge.com/minecraft/texture-packs/trumpet-skeleton"><img src="http://cf.way2muchnoise.eu/493049.svg?badge_style=flat" alt="CF"></a> |
 | Spyglass into Binoculars - self explanatory              | <a href="https://www.curseforge.com/minecraft/texture-packs/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> |
+| Recipe Book + - Changes the default behavior of the vanilla recipe book to introduce QoL features and improve it | <a href="https://www.curseforge.com/minecraft/mc-mods/recipe-book-plus"><img src="http://cf.way2muchnoise.eu/1611335.svg?badge_style=flat" alt="CF"></a> |
 
 ### Github Activity:
 ![Stats](./profile/stats.svg)
