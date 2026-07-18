@@ -23,7 +23,7 @@ My current addictions:
 | ----------- | ----------- |
 | Trumpet Skeleton - replaces bows with trumpets - *Doot!* | <a href="https://www.curseforge.com/minecraft/texture-packs/trumpet-skeleton"><img src="http://cf.way2muchnoise.eu/493049.svg?badge_style=flat" alt="CF"></a> |
 | Spyglass into Binoculars - self explanatory              | <a href="https://www.curseforge.com/minecraft/texture-packs/spyglass-into-binoculars"><img src="http://cf.way2muchnoise.eu/488250.svg?badge_style=flat" alt="CF"></a> |
-| Recipe Book + - Changes the default behavior of the vanilla recipe book to introduce QoL features and improve it | <a href="https://www.curseforge.com/minecraft/mc-mods/recipe-book-plus"><img src="http://cf.way2muchnoise.eu/1611335.svg?badge_style=flat" alt="CF"></a> |
+| RecipeBook+ - Changes the default behavior of the vanilla recipe book to introduce QoL features and improve it | <a href="https://www.curseforge.com/minecraft/mc-mods/recipe-book-plus"><img src="http://cf.way2muchnoise.eu/1611335.svg?badge_style=flat" alt="CF"></a><a href="https://modrinth.com/mod/recipe-book-plus">Modrinth</a> |
 
 ### Github Activity:
 ![Stats](./profile/stats.svg)
