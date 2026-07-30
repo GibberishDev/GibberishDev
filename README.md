@@ -26,7 +26,7 @@ My current addictions:
 | RecipeBook+ - Changes the default behavior of the vanilla recipe book to introduce QoL features and improve it | [Repo](https://github.com/GibberishDev/recipebookplus) | <a href="https://www.curseforge.com/minecraft/mc-mods/recipe-book-plus"><img src="https://img.shields.io/curseforge/dt/1611335?style=for-the-badge&logo=curseforge&logoSize=auto&labelColor=black&color=%23eb622b" alt="CF"></a><br><a href="https://modrinth.com/mod/recipe-book-plus">![Modrinth](https://img.shields.io/modrinth/dt/BdJhqYB1?style=for-the-badge&logo=modrinth&logoSize=auto&labelColor=black&color=%230c996c)</a> |
 
 ### Github Activity:
-![Top Languages](./profile/top-langs.svg)
+<img src="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&theme=highcontrast&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=010409" alt="github stats" width="50%" height="350"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&theme=highcontrast&layout=donut&langs_count=6&hide_border=true&bg_color=010409" alt="language stats" width="50%" height="350">
 
 
 
