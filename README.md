@@ -30,7 +30,7 @@ My current addictions:
 
 ### Github Activity:
 <picture><source
-    srcset="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&theme=highcontrast&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=00000000"
+    srcset="https://github-stats-extended.vercel.app/api?username=gibberishdev&theme=highcontrast&show_icons=true&border_color=00000000&bg_color=00000000&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented"
     alt="github stats" 
     width="50%"
     height="350"
