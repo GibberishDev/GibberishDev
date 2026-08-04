@@ -29,19 +29,16 @@ My current addictions:
 </table></p>
 
 ### Github Activity:
-<img src="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&theme=highcontrast&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=00000000" alt="github stats" width="50%" height="350"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&theme=highcontrast&layout=donut&langs_count=6&hide_border=true&bg_color=00000000" alt="language stats" width="50%" height="350">
-
-
-
-  -----
-  <br>
-  <a href="https://github.com/GibberishDev"><img src="https://github.com/GibberishDev/resrrep/blob/main/gd.png" alt="GD"></a>
-  
-  <br>
-  
-  <a href="https://www.curseforge.com/members/gibbdev/projects"><img src="https://github.com/GibberishDev/resrrep/blob/main/anvil.png" alt="CF"></a>
-  <a href="https://steamcommunity.com/id/GibberishDev/"><img src="https://github.com/GibberishDev/resrrep/blob/main/steam.png" alt="Steam"></a>
-  <a href="https://gibberish-development.itch.io/"><img src="https://github.com/GibberishDev/resrrep/blob/main/itchio.png" alt="Itch.io"></a>
-
-#### My "text" logo made with this:
-<a href="https://gibberish-development.itch.io/ascii-like-wall-tile-set"><img src="https://github.com/GibberishDev/resrrep/blob/main/ilap.jpg" alt="itch.io link"></a>
+<picture><source
+    srcset="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&theme=highcontrast&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=00000000"
+    alt="github stats" 
+    width="50%"
+    height="350"
+    media="(prefers-color-scheme: dark)"
+  /><img src="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=00000000" alt="github stats" width="50%" height="350"></picture><picture><source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&theme=highcontrast&layout=donut&langs_count=6&hide_border=true&bg_color=00000000"
+    alt="language stats" 
+    width="50%"
+    height="350"
+    media="(prefers-color-scheme: dark)"
+  /><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&layout=donut&langs_count=6&hide_border=true&bg_color=00000000" alt="language stats" width="50%" height="350"></picture>
