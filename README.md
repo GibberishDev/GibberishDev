@@ -29,7 +29,7 @@ My current addictions:
 </table></p>
 
 ### Github Activity:
-<img src="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&theme=highcontrast&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=010409" alt="github stats" width="50%" height="350"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&theme=highcontrast&layout=donut&langs_count=6&hide_border=true&bg_color=010409" alt="language stats" width="50%" height="350">
+<img src="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&theme=highcontrast&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=00000000" alt="github stats" width="50%" height="350"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&theme=highcontrast&layout=donut&langs_count=6&hide_border=true&bg_color=00000000" alt="language stats" width="50%" height="350">
 
 
 
