@@ -29,16 +29,4 @@ My current addictions:
 </table></p>
 
 ### Github Activity:
-<picture><source
-    srcset="https://github-stats-extended.vercel.app/api?username=gibberishdev&theme=highcontrast&show_icons=true&border_color=00000000&bg_color=00000000&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented"
-    alt="github stats" 
-    width="50%"
-    height="350"
-    media="(prefers-color-scheme: dark)"
-  /><img src="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=00000000" alt="github stats" width="50%" height="350"></picture><picture><source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&theme=highcontrast&layout=donut&langs_count=6&hide_border=true&bg_color=00000000"
-    alt="language stats" 
-    width="50%"
-    height="350"
-    media="(prefers-color-scheme: dark)"
-  /><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&layout=donut&langs_count=6&hide_border=true&bg_color=00000000" alt="language stats" width="50%" height="350"></picture>
+<span><img src="https://github-stats-extended.vercel.app/api?username=gibberishdev&show_icons=true&show=prs_merged,prs_merged_percentage,prs_authored,issues_authored,issues_commented&hide_border=true&bg_color=00000000&text_color=2f80ed" alt="github stats" width="50%" height="350"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gibberishdev&layout=donut&langs_count=6&hide_border=true&bg_color=00000000&text_color=2f80ed" alt="language stats" width="50%" height="350"></span>
