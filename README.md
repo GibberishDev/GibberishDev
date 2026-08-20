@@ -1,6 +1,6 @@
 # Welcome to my *GitHub Page*.
 
-I am a someone for sure >.> Web Frontend and Minecraft, Team Fortress 2.
+I am a someone for sure >.> Web Frontend,  godot and Minecraft mod and datapack developer.
 <br><br>
 
 My favourite games:
