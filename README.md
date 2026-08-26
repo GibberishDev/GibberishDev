@@ -12,6 +12,7 @@ My favourite games:
 My current addictions:
 * [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
 * [Deadlock](https://store.steampowered.com/app/1422450/Deadlock/)
+* modding minecraft and creating my own mod pack for new players.
 
 ### My Hytale mods:
 
