@@ -6,7 +6,7 @@ I am a someone for sure >.> Web Frontend,  godot and Minecraft mod and datapack 
 My favourite games:
 * [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
 * [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
-* Minecraft (I disagree with update direction ever since covid but I won't deny its awesome game. Modding is keeping it afloat)
+* Minecraft (I disagree with update direction ever since covid but I won't deny its awesome game. Modding it is keeping it afloat and what keeps me interested in it)
 * [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/)
 
 My current addictions:
