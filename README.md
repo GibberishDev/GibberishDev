@@ -1,7 +1,9 @@
 # Welcome to my *GitHub Page*.
 
 I am a someone for sure >.> Web Frontend,  godot and Minecraft mod and datapack developer.
-<br><br>
+
+<p>I also like to stream on twitch. most of the time its me developing my current project so stop by and say hi :3</p><br><br>
+
 
 My favourite games:
 * [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
