@@ -5,7 +5,7 @@
 <p align="center"><sup>Once king receives the amulet we will reach out to you within 5-10 business days. The reward is not transferable and cannot be redeemed multiple times. Quest is not repeatable and King is not viable for any damages, loses, death of party members or any other harm inflicted upon participants. for more info check us out at your nearest bulletin board participating in kingdom wide bulletin board network under "quests and adventures" section</sup></p>
 <hr>
 
-My favourite games:
+King likes to indulge in these wondrous pieces of magic on his Majesty's magic mirror:
 * [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
 * [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
 * Minecraft (I disagree with update direction ever since covid but I won't deny its awesome game. Modding it is keeping it afloat and what keeps me interested in it)
