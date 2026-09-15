@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center">Welcome Adventurer!</h1>
 
-<h2 align="center">Thy soul shall not fret! As I, Gibbles Developer III, shall bestow upon ye an OFFERING OF GREAT POWER! BUT! Thy shall not have reward without completing my quest! The quest of searching fabled relic of bygone days. The one and only... Amulet of Yendor!</h2>
+<h2 align="center">Thy soul shall not fret! As I, Gibbles Developer III, shall bestow upon ye an OFFERING OF GREAT POWER! BUT! Thy shall not have reward without completing my quest! The quest of searching fabled relic of bygone days. The one and only... The Amulet of Yendor!</h2>
 <p align="center"><sup>Once king receives the amulet we will reach out to you within 5-10 business days. The reward is not transferable and cannot be redeemed multiple times. Quest is not repeatable and King is not viable for any damages, loses, death of party members or any other harm inflicted upon participants. for more info check us out at your nearest bulletin board participating in kingdom wide bulletin board network under "quests and adventures" section</sup></p>
 <hr>
 
