@@ -17,9 +17,9 @@ King currently adores:
 * modding minecraft and creating my own mod pack for new players.
 
 <p align="center"><h3 align="center">Larp over</h3></p>
-
-![](https://github.com/GibberishDev/GibberishDev/blob/main/images/glorpbert3d.gif)
-
+<p align="center">
+<img align="center" src="https://github.com/GibberishDev/GibberishDev/blob/main/images/glorpbert3d.gif">
+</p>
 
 ### My Hytale mods:
 
