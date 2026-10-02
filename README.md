@@ -11,10 +11,15 @@ King likes to indulge in these wondrous pieces of magic on his Majesty's magic m
 * Minecraft (I disagree with update direction ever since covid but I won't deny its awesome game. Modding it is keeping it afloat and what keeps me interested in it)
 * [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/)
 
-My current addictions:
+King currently adores:
 * [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
-* [Deadlock](https://store.steampowered.com/app/1422450/Deadlock/)
+* [Deadlock](https://store.steampowered.com/app/1422450/Deadlock/) <img src="./images/vyper-4x.png" alt="" height="20px"></img>
 * modding minecraft and creating my own mod pack for new players.
+
+<p align="center"><h3 align="center">Larp over</h3></p>
+
+![](https://github.com/GibberishDev/GibberishDev/blob/main/images/glorpbert3d.gif)
+
 
 ### My Hytale mods:
 
