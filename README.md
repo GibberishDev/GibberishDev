@@ -8,7 +8,7 @@
 King likes to indulge in these wondrous pieces of magic on his Majesty's magic mirror:
 * [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
 * [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
-* Minecraft (I disagree with update direction ever since covid but I won't deny its awesome game. Modding it is keeping it afloat and what keeps me interested in it)
+* Minecraft (I disagree with update direction ever since covid (especially cus we are getting another dimension before they uplift END dimension due to corporate push from microslop to promote dungeons 2 so it aint flopping like any other mc franchise spinoff) but I won't deny its awesome game. Modding it is keeping it afloat and what keeps me interested in it)
 * [Ultrakill](https://store.steampowered.com/app/1229490/ULTRAKILL/)
 
 King currently adores:
